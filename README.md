@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**DGTresseno/DGTresseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey, I'm Lucas Montano! 👋
 
-Here are some ideas to get you started:
+Content Creator at [Youtube](https://www.youtube.com/lucasmontano) <br>
+Streamer at [Twitch](https://www.twitch.tv/lucas_montano) <br>
+Co-creator [Memo](https://www.producthunt.com/posts/memo-7) <br>
+Senior Android Engineer at [Disney+](https://www.disneyplus.com/) <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me elsewhere 🌎
+
+[Twitter](https://twitter.com/dgtresseno) <br>
+[Instagram](https://instagram.com/gabrieltresseno) <br>
+[LinkedIn](https://www.linkedin.com/in/gabriel-antunes-tresseno-dos-santos-94112415b/) <br>
+
+🇧🇷 Born in São Paulo, Brazil <br>
+🇧🇷 Living in São Paulo, Brazil <br>
