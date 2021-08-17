@@ -1,10 +1,9 @@
 
-### Hey, I'm Lucas Montano! 👋
+### Hey, I'm Gabriel Tresseno/Olá, eu sou o Gabriel Tresseno! 👋
 
-Content Creator at [Youtube](https://www.youtube.com/lucasmontano) <br>
-Streamer at [Twitch](https://www.twitch.tv/lucas_montano) <br>
-Co-creator [Memo](https://www.producthunt.com/posts/memo-7) <br>
-Senior Android Engineer at [Disney+](https://www.disneyplus.com/) <br>
+Streamer at [Twitch](https://www.twitch.tv/dgtresseno) <br>
+Junior Web Developer 
+JS ❤HTML❤CSS<br>
 
 ### Find me elsewhere 🌎
 
