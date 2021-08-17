@@ -5,7 +5,7 @@ Streamer at [Twitch](https://www.twitch.tv/dgtresseno) <br>
 Junior Web Developer 
 JS ❤HTML❤CSS<br>
 
-### Find me elsewhere 🌎
+### Find me elsewhere/Me encontre em outro lugar 🌎
 
 [Twitter](https://twitter.com/dgtresseno) <br>
 [Instagram](https://instagram.com/gabrieltresseno) <br>
