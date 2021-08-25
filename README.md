@@ -1,7 +1,6 @@
 
 ### Hey, I'm Gabriel Tresseno/Olá, eu sou o Gabriel Tresseno! 👋
 
-Streamer at [Twitch](https://www.twitch.tv/dgtresseno) <br>
 Junior Web Developer 
 JS ❤HTML❤CSS<br>
 
