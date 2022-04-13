@@ -2,7 +2,7 @@
 ### Hey, I'm Gabriel Tresseno/Olá, eu sou o Gabriel Tresseno! 👋
 
 Junior Web Developer 
-JS/HTML/CSS<br>
+JS/HTML/CSS/VueJS/React<br>
 
 ### Find me elsewhere/Me encontre em outro lugar 🌎
 
