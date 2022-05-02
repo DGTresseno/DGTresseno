@@ -6,6 +6,8 @@ JS/HTML/CSS/VueJS/React<br>
 
 ### Find me elsewhere/Me encontre em outro lugar 🌎
 
+
+[https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white][Twitter]
 [Twitter](https://twitter.com/dgtresseno) <br>
 [Instagram](https://instagram.com/gabrieltresseno) <br>
 [LinkedIn](https://www.linkedin.com/in/gabriel-antunes-tresseno-dos-santos-94112415b/) <br>
